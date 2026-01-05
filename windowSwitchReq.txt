@@ -1,5 +1,4 @@
 pygetwindow
-psutil
-csv
 datetime
 time
+csv

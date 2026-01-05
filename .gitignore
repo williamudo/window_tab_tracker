@@ -1,0 +1,10 @@
+# Python
+__pyache__/
+*.pyc
+
+# LOGS
+window_log.csv
+
+# IDE
+.vscode/
+.DS_Store
