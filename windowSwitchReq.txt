@@ -1,0 +1,5 @@
+pygetwindow
+psutil
+csv
+datetime
+time
