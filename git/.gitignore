@@ -5,6 +5,10 @@ __pyache__/
 # LOGS
 window_log.csv
 
+# PYTHON VIRTUAL ENVIRONMENT
+venv/
+.env/
+
 # IDE
 .vscode/
 .DS_Store
